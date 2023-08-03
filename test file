@@ -19,3 +19,4 @@ TST-1 #comment test #12 from nikolay.myasnikov@kraken.com after changing the bra
 TST-1 #comment test #13 from nikolay.myasnikov@kraken.com after changing the branch to "not updated" master?? GIT5295+GIT5288 #indiscuss -old result
 TST-1 #comment test #14 from nikolay.myasnikov@kraken.com GIT5295+GIT5288 #indiscuss - "error letter" didn't received
 TST-1 #comment test #15 from martin GIT5295+GIT5288 #indiscuss
+TST-1 #comment test #16 from martin GIT5295+GIT5288 #indiscuss unchecked "keep private email"
