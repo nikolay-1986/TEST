@@ -13,5 +13,6 @@ TST-1 #comment test #6 from martin after switch off regex match GIT5295+GIT5288 
 TST-1 #comment test #7 from martin after switch on Generic Event GIT5295+GIT5288 #indiscuss -email for admin and for user about commit received, but there is no letter  with error
 TST-1 #comment test #8 from martin after stop watching GIT5295+GIT5288 #indiscuss - email for admin and for user about commit received, but there is no letter  with error
 TST-1 #comment test #9 from martin after changing the branch to GIT5282 GIT5295+GIT5288 #indiscuss - email for admin and for user about commit received, but there is no letter  with error
-TST-1 #comment test #10 from martin after changing the branch to master GIT5295+GIT5288 #indiscuss 
-TST-1 #comment test #10 from nmyasnikov after changing the branch to master GIT5295+GIT5288 #indiscuss 
+TST-1 #comment test #10 from martin after changing the branch to master GIT5295+GIT5288 #indiscuss - email for admin and for user about commit received, but there is no letter  with error
+TST-1 #comment test #11 from nmyasnikov (admin) after changing the branch to master GIT5295+GIT5288 #indiscuss - email for admin and for user about commit received, but there is no letter  with error
+TST-1 #comment test #11 from nikolay.myasnikov@kraken.com after changing the branch to master GIT5295+GIT5288 #indiscuss 
