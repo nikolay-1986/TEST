@@ -16,4 +16,5 @@ TST-1 #comment test #9 from martin after changing the branch to GIT5282 GIT5295+
 TST-1 #comment test #10 from martin after changing the branch to master GIT5295+GIT5288 #indiscuss - email for admin and for user about commit received, but there is no letter  with error
 TST-1 #comment test #11 from nmyasnikov (admin) after changing the branch to master GIT5295+GIT5288 #indiscuss - email for admin and for user about commit received, but there is no letter  with error
 TST-1 #comment test #12 from nikolay.myasnikov@kraken.com after changing the branch to master GIT5295+GIT5288 #indiscuss - email for "unknown" user about commit with error is received!!!
-TST-1 #comment test #13 from nikolay.myasnikov@kraken.com after changing the branch to "not updated" master?? GIT5295+GIT5288 #indiscuss 
+TST-1 #comment test #13 from nikolay.myasnikov@kraken.com after changing the branch to "not updated" master?? GIT5295+GIT5288 #indiscuss -old result
+TST-1 #comment test #13 from nikolay.myasnikov@kraken.com after GIT5295+GIT5288 #indiscuss 
