@@ -20,6 +20,7 @@ TST-1 #comment test #13 from nikolay.myasnikov@kraken.com after changing the bra
 TST-1 #comment test #14 from nikolay.myasnikov@kraken.com GIT5295+GIT5288 #indiscuss - "error letter" didn't received
 TST-1 #comment test #15 from martin GIT5295+GIT5288 #indiscuss
 TST-1 #comment test #16 from martin GIT5295+GIT5288 #indiscuss unchecked "keep private email" - good for martin
-TST-1 #comment test #16 from krakeneer GIT5295+GIT5288 #indiscuss unchecked "keep private email"
-TST-1 #comment test #17 from martin GIT5295+GIT5288 #indiscuss - success for user
-TST-1 #comment test #17 from nmyasnikov (admin) GIT5295+GIT5288 #indiscuss  - should be success
+TST-1 #comment test #17 from krakeneer GIT5295+GIT5288 #indiscuss unchecked "keep private email"
+TST-1 #comment test #18 from martin GIT5295+GIT5288 #indiscuss - success for user
+TST-1 #comment test #19 from nmyasnikov (admin) GIT5295+GIT5288 #indiscuss  - email for admin and for user about commit received, but there is no letter  with error
+TST-1 #comment test #20 from krakeneer (non jira user) GIT5295+GIT5288 #indiscus 
