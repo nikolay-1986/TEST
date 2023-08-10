@@ -25,3 +25,4 @@ TST-1 #comment test #18 from martin GIT5295+GIT5288 #indiscuss - success for use
 TST-1 #comment test #19 from nmyasnikov (admin) GIT5295+GIT5288 #indiscuss  - email for admin and for user about commit received, but there is no letter  with error
 TST-1 #comment test #20 from krakeneer (non jira user) GIT5295+GIT5288 #indiscus  - email for admin and for user about commit received, but there is no letter  with error
 TST-1 #comment test #21 from nmyasnikov (admin) GIT5295+GIT5288 #indiscuss unchecked "keep private email" - should be last coomit))
+TST-1 commit for checking multiple notifications
