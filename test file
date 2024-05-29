@@ -41,3 +41,4 @@ TST-1 #13 commit for checking multiple notifications after configured 4 differen
 TST-1 #14 commit for checking multiple notifications after configured 4 different emails on nodes commit by krakeneer
 TST-1 #15 commit for checking multiple notifications after configured 1+3 different emails on nodes commit by krakeneer
 TST-1 #16 commit for checking multiple notifications after delete 1 emails commit by krakeneer
+TST-8 checking of a4j for pr draft GIT_5661 #12
