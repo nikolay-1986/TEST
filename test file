@@ -45,3 +45,5 @@ TST-1 #16 commit for checking multiple notifications after delete 1 emails commi
 TST-1 testing of draft PR for GIT_5661
 TST-1 testing of draft PR for GIT_5661 #2
 TST-1 cheking of a4j for pr draft GIT_5661 #7
+TST-1 creating the PR #1 for GIT5253
+TST-1-branch_1-for-GIT5253
